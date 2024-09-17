@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryMgment", "InventoryMgment\InventoryMgment.csproj", "{B76F1974-7B33-4C4D-823B-70013979704D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryMgment", "InventoryMgment\InventoryMgment.csproj", "{B76F1974-7B33-4C4D-823B-70013979704D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salesPerformance", "salesPerformance\salesPerformance.csproj", "{E13A9112-EAF8-4FC6-8BC9-B35137A4A12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCSharp", "LearningCSharp\LearningCSharp.csproj", "{97125710-7AC8-400C-973C-9930D3A8307F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B76F1974-7B33-4C4D-823B-70013979704D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B76F1974-7B33-4C4D-823B-70013979704D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B76F1974-7B33-4C4D-823B-70013979704D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13A9112-EAF8-4FC6-8BC9-B35137A4A12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13A9112-EAF8-4FC6-8BC9-B35137A4A12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13A9112-EAF8-4FC6-8BC9-B35137A4A12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13A9112-EAF8-4FC6-8BC9-B35137A4A12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97125710-7AC8-400C-973C-9930D3A8307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97125710-7AC8-400C-973C-9930D3A8307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97125710-7AC8-400C-973C-9930D3A8307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97125710-7AC8-400C-973C-9930D3A8307F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
